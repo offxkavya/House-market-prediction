@@ -1,0 +1,4 @@
+housing_venv
+__pycache__/
+# Windows system files
+desktop.ini
